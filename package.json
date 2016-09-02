@@ -1,0 +1,20 @@
+{
+  "name": "fistappjs",
+  "version": "1.0.0",
+  "description": "premier test node.js",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "faya",
+  "license": "ISC",
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/farfaye/MesTestsNodeJS.git"
+ }
+}
